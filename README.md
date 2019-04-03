@@ -1,2 +1,2 @@
 # config
-My config files for 
+My config files for emacs and i3...
